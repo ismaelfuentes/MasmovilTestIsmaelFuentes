@@ -1,0 +1,20 @@
+.c-navButton {
+    width: 25%;
+    max-width: 150px;
+    box-sizing: border-box;
+    height: 100%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-right: 1px dotted rgba(255, 255, 255, 0.18);
+    
+}
+
+.c-navButton:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.c-navButton__link {
+    line-height: normal;
+}

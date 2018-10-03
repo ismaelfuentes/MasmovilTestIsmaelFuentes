@@ -1,0 +1,36 @@
+.c-phone-summary {
+    max-width: 400px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+}
+
+.c-phone-summary__image {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 170px;
+    width: 100px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.c-phone-summary__name {
+    position: absolute;
+    top: 10px;
+    left: 120px;
+    height: 50px;
+    width: calc(100% - 140px);
+    font-size: 20px;
+    font-weight: bold;
+    color: #0990df;
+}
+
+
+.c-phone-summary__description {
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    height: 110px;
+    width: calc(100% - 140px);
+}

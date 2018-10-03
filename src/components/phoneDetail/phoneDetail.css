@@ -1,0 +1,37 @@
+.c-phone-detail {
+    position: relative;
+    overflow: hidden;
+    min-height: 200px;
+}
+
+.c-phone-detail__company {
+    font-size: 20px;
+    font-weight: bold;
+    color: #b1690f;
+}
+
+.c-phone-detail__image {
+    float: left;
+    height: 250px;
+    width: 170px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.c-phone-detail__name {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0990df;
+    margin: 10px 0px;
+}
+
+.c-phone-detail__release_date {
+    font-size: 14px;
+    color: #828282;
+    margin: 10px 0px;
+}
+
+
+.c-phone-detail__description {
+    
+}

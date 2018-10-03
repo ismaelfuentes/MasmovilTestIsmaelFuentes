@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "name": "Samgung Galaxy 1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAzGFdaBT3hQ6lr7ZDgCJJhHxFsJjLDNZaOutypC59ssAoKHg",
+        "description": "Aquí tienes el movil que querías, what else?",
+        "company": "Samsung",
+        "releaseDate": "2018 July 13th"
+    }, {
+        "id": 1,
+        "name": "samgung 2",
+        "image": "https://www.jazztel.com/jazztelMedia/mediaWeb/images/terminals/320x342_SAMSUNG_GALAXY_J5_2017.png",
+        "description": "Aquí tienes el movil que querías, what else?",
+        "company": "Samsung",
+        "releaseDate": "2016 October 13th"
+    }, {
+        "id": 2,
+        "name": "Iphone 4",
+        "image": "https://d243u7pon29hni.cloudfront.net/imagesOnDemand/get?imagePath=/images/products/movil-apple-iphone-6-4.7-hd-32-gb-8-mp-1363219-1_l.png&width=480&height=480&quality=65&imgType=product",
+        "description": "Aquí tienes el movil que querías, what else? Aquí tienes el movil que querías, what else?",
+        "company": "Apple",
+        "releaseDate": "2017 March 13th"
+    }, {
+        "id": 3,
+        "name": "Samgung Galaxy 17",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAzGFdaBT3hQ6lr7ZDgCJJhHxFsJjLDNZaOutypC59ssAoKHg",
+        "description": "Aquí tienes el movil que querías, what else?",
+        "company": "Samsung",
+        "releaseDate": "2018 July 13th"
+    }, {
+        "id": 4,
+        "name": "samgung 23",
+        "image": "https://www.jazztel.com/jazztelMedia/mediaWeb/images/terminals/320x342_SAMSUNG_GALAXY_J5_2017.png",
+        "description": "Aquí tienes el movil que querías, what else?. Aquí tienes el movil que querías, what else?",
+        "company": "Samsung",
+        "releaseDate": "2016 October 13th"
+    }, {
+        "id": 5,
+        "name": "Iphone 5",
+        "image": "https://d243u7pon29hni.cloudfront.net/imagesOnDemand/get?imagePath=/images/products/movil-apple-iphone-6-4.7-hd-32-gb-8-mp-1363219-1_l.png&width=480&height=480&quality=65&imgType=product",
+        "description": "Aquí tienes el movil que querías, what else?",
+        "company": "Apple",
+        "releaseDate": "2017 March 13th"
+    }
+]
