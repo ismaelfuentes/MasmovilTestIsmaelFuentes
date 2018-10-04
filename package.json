@@ -27,6 +27,5 @@
   },
   "scripts": {
     "start": "node server/v1/index.js | react-scripts start"
-    
   }
 }

@@ -26,3 +26,10 @@ The project can be set up running the command
 and a new window will be opened in the browser to use this app.
 
 The chosen api port was 8669.
+
+
+## Enospc problem on start
+
+if you have an error starting the project, watch this stackoverflow thread to solve it
+
+[https://stackoverflow.com/questions/22475849/node-js-error-enospc/32600959#32600959](node-js-error-enospc)
